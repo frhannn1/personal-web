@@ -1,0 +1,25 @@
+.foto {
+    width: 90vw;
+    height: auto;
+    max-width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 2vw;
+}
+
+.nama{
+    max-width: 100%;
+    margin-top: 20px;
+    font-size: 4vw;
+    letter-spacing: 2px;
+ 
+
+    
+}
+.deskrip{
+    font-size: 30px;
+}
+.intro {
+    margin-top: 50px;
+}

@@ -1,0 +1,12 @@
+@media (min-width: 576px) {
+    .fotoporto {
+      max-height: 150px;
+    }
+  }
+  
+  /* Untuk layar kecil */
+  @media (max-width: 575.98px) {
+    .fotoporto {
+      max-height: 200px;
+    }
+  }
